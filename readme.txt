@@ -31,13 +31,5 @@ functions_AR.R - Sampler for square-root ozone, log-pm10
 Gibbs_updates_het.cpp - Functions for Gibbs sampler
 model_heteroscedastic_with_holdout.R - Fits model using homoscedastic model
 
-
-Data/
-coord_raw.RData - lat/lon coordinates for stations
-O3.csv - 2017 ozone levels
-O3_Dec.csv - 2016 December ozone levels
-PM10.csv - 2017 pm10 levels
-PM10_dec.csv - 2016 December pm10 levels
-RH.csv - relative humidity
-TMP.csv - temperature in C
-UTM_Coordinates - Eastings and Northings for stations
+ 
+Data are obtained at http://www.aire.cdmx.gob.mx/
